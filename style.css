@@ -3,7 +3,6 @@ body{
 }
 .inline{
     display: flex;
-    margin: 0;
 }
 .half-width{
     width: 40%;
@@ -33,8 +32,21 @@ h1{
     background-image: url(images/shapes/7.png);
     margin: 50px 0px;
 }
-h3{
+.font-size{
     color: dimgrey;
-    padding-top: 5%;
+    padding-top: 2%;
     font-size: 30px;
+}
+#align{
+    text-align: center;
+}
+.recipies{
+    width: 25%;
+    box-shadow: 10px 10px 40px gray;
+    margin: 0px 60px;
+    padding: 1%;
+    border-radius: 30px;
+}
+.recipies img{
+    width: 300px;
 }
