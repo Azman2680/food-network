@@ -22,6 +22,9 @@ h1{
     padding: 10px 20px;
     border-radius: 20px;
 }
+.margin{
+    margin-bottom: 45px;
+}
 .half-width img{
     width: 450px;
 }
