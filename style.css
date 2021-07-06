@@ -51,6 +51,15 @@ h1{
 .recipies img{
     width: 300px;
 }
+.area{
+    width: 50%;
+    margin: opx 60px;
+    padding: 5%;
+}
+#bg-image{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    margin-top: 50px;
+}
 #background{
     background-color: black;
     padding-bottom: 40px;
