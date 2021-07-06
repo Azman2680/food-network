@@ -38,7 +38,7 @@ h1{
     padding-top: 2%;
     font-size: 30px;
 }
-#align{
+.align{
     text-align: center;
 }
 .recipies{
@@ -50,4 +50,11 @@ h1{
 }
 .recipies img{
     width: 300px;
+}
+#background{
+    background-color: black;
+    padding-bottom: 40px;
+}
+#text-colour{
+    color: white;
 }
